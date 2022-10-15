@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlreadyBored/basic-js-ds.git"
+    "url": "git+https://github.com/bahodirovu/basic-js-ds.git"
   },
   "keywords": [
     "RSS",
@@ -24,9 +24,9 @@
   "author": "AlreadyBored",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlreadyBored/basic-js-ds/issues"
+    "url": "https://github.com/bahodirovu/basic-js-ds/issues"
   },
-  "homepage": "https://github.com/AlreadyBored/basic-js-ds#readme",
+  "homepage": "https://github.com/bahodirovu/basic-js-ds#readme",
   "devDependencies": {
     "chai": "4.3.6",
     "mocha": "10.0.0",
